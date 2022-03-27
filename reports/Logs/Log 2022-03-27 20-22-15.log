@@ -1,0 +1,92 @@
+2022-03-27 20:22:21 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:22:21 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:22:21 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:22:26 INFO  TC001_Login:19 - Clicking on login
+2022-03-27 20:22:27 INFO  HomePage:19 - Entering details
+2022-03-27 20:22:28 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:22:28 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:22:28 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:22:30 INFO  HomePage:19 - Entering password : hars2691
+2022-03-27 20:22:31 INFO  HomePage:19 - Clicking on signIn
+2022-03-27 20:22:33 INFO  HomePage:19 - Login Success
+2022-03-27 20:22:35 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:22:36 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:22:36 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:22:40 INFO  TC001_Login:19 - Clicking on login
+2022-03-27 20:22:40 INFO  HomePage:19 - Entering details
+2022-03-27 20:22:41 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:22:41 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:22:41 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:22:43 INFO  HomePage:19 - Entering password : hars2691
+2022-03-27 20:22:43 INFO  HomePage:19 - Clicking on signIn
+2022-03-27 20:22:45 INFO  HomePage:19 - logged in with invalid credit
+2022-03-27 20:22:47 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:22:47 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:22:47 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:22:52 INFO  TC003_Fan_Page_verification:19 - Verifying fan pages
+2022-03-27 20:22:53 INFO  HomePage:19 - Opeining facebook
+2022-03-27 20:22:56 INFO  HomePage:19 - Opened Facebook
+2022-03-27 20:22:56 INFO  TC003_Fan_Page_verification:19 - Verifying fan pages
+2022-03-27 20:22:58 INFO  HomePage:19 - Opeining twitter
+2022-03-27 20:23:00 INFO  HomePage:19 - Unable to open Twitter
+2022-03-27 20:23:02 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:23:03 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:23:03 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:23:09 INFO  TC004_Commertial_verify:19 - Starting commertial search test
+2022-03-27 20:23:09 INFO  TC004_Commertial_verify:19 - clicked on commertail
+2022-03-27 20:23:09 INFO  TC004_Commertial_verify:19 - selcting city as Mumbai
+2022-03-27 20:23:09 INFO  TC004_Commertial_verify:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India 
+2022-03-27 20:23:13 INFO  TC004_Commertial_verify:19 -  Number of Results 7
+2022-03-27 20:23:14 INFO  TC004_Commertial_verify:19 - Number of results matched
+2022-03-27 20:23:16 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:23:16 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:23:16 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:23:21 INFO  TC005_FooterPgGostelSearch:19 - Footer Pg hostels
+2022-03-27 20:23:21 INFO  TC005_FooterPgGostelSearch:19 - checking presence of city: Powai
+2022-03-27 20:23:23 INFO  TC005_FooterPgGostelSearch:19 - City present in PGHostel footer
+2022-03-27 20:23:25 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:23:26 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:23:26 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:23:31 INFO  TC006_LoginAndVeriyDetails:19 - Stared Login and verify
+2022-03-27 20:23:31 INFO  TC006_LoginAndVeriyDetails:19 - Clicking on login
+2022-03-27 20:23:31 INFO  HomePage:19 - Entering details
+2022-03-27 20:23:31 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:23:31 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:23:31 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:23:33 INFO  HomePage:19 - Entering password : hars2691
+2022-03-27 20:23:33 INFO  HomePage:19 - Clicking on signIn
+2022-03-27 20:23:38 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:23:39 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:23:39 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:23:44 INFO  TC007_BuilderVerify_city:19 - clicked on newBuilder properties started
+2022-03-27 20:23:44 INFO  TC007_BuilderVerify_city:19 - clicking new Builder
+2022-03-27 20:23:44 INFO  TC007_BuilderVerify_city:19 - Clicking on new builder properties
+2022-03-27 20:23:47 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:23:48 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:23:48 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:23:53 INFO  TC008_AndoidApp_download:19 - Clicked on android app download
+2022-03-27 20:23:53 INFO  TC008_AndoidApp_download:19 - clicking android download
+2022-03-27 20:23:54 INFO  TC008_AndoidApp_download:19 - Clicking on download android app
+2022-03-27 20:23:56 INFO  TC008_AndoidApp_download:19 - It opened correct android app
+2022-03-27 20:23:59 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:24:00 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:24:00 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:24:04 INFO  TC009_SearchRent:19 - Starting commertial search test
+2022-03-27 20:24:04 INFO  TC004_Commertial_verify:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India 
+2022-03-27 20:24:08 INFO  TC009_SearchRent:19 -  Number of Results 36
+2022-03-27 20:24:08 INFO  TC009_SearchRent:19 - Number of results matched
+2022-03-27 20:24:11 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:24:11 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:24:11 INFO  TC001_Login:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:24:17 INFO  TC010_Emi_defination:19 - Selecting emi
+2022-03-27 20:24:17 INFO  TC010_Emi_defination:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:24:18 INFO  TC010_Emi_defination:19 - Opeining emi calculator
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Expected principal Amount: 1,000
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Actual principal Amount: ?1,000
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Expected montly Emi: 42
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Actual montly Emi: 42
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Expected Total Intrest: 9,080
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Actual Total Intrest: 9,080
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Expected Total amount: 10,080
+2022-03-27 20:24:19 INFO  TC010_Emi_defination:19 - Actual Total Amount: 10,080
+2022-03-27 20:24:20 INFO  TC010_Emi_defination:19 - Emi calculations are correct
